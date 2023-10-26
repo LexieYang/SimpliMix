@@ -1,0 +1,15 @@
+pth_file
+__pycache__
+.vscode
+prac.py
+README.md
+other
+condor.*
+command.txt
+Analysis
+*.npy
+Exp
+ModelNet40_C_cross
+ModelNet40_cross
+ScanObjectNN_cross
+ShapeNet_cross
